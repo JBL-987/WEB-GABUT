@@ -5,4 +5,4 @@ while (true) {
     break;
   }
 }
-alert("silahkan melihat");
+alert("Lol hanya Bercandia xd");
